@@ -1,70 +1,42 @@
-# Stuart Buchanan
+Stuart Buchanan
+Integrity Engineer → Solutions Architect | Cloud · AI · Regulated Industry | Scotland, UK
+21 years of safety-critical engineering across oil & gas, energy, and offshore operations — now applying that operational depth to cloud architecture and AI integration in complex, regulated environments.
+The combination that's hard to find: domain expertise in asset integrity, RBI, ALARP, and HSE compliance — plus hands-on capability across AWS, Azure, and AI/LLM systems. I understand the operational reality behind the data, not just the architecture around it.
 
-**Integrity Engineer → AI Integration Consultant | Cloud & AI Solutions Architect**
+Certification Pathway
+CertificationProviderStatusAWS Solutions Architect AssociateAmazonIn ProgressAWS Solutions Architect ProfessionalAmazonPlannedAWS Security SpecialtyAmazonPlannedAZ-900 / AZ-104 / AZ-305MicrosoftPlannedAnthropic Certified Architect (CCA-F)AnthropicPlannedPalantir Foundry + AIPPalantirPlannedTOGAFThe Open GroupPlanned
 
-📍 Scotland, UK | 🔗 [LinkedIn](https://linkedin.com/in/stuartwbuchanan)
-
----
-
-## What I'm Building
-
-21 years of safety-critical engineering experience in oil and gas — now applying that operational expertise to AI integration and cloud architecture for regulated industry clients.
-
-The combination that doesn't exist elsewhere: deep domain knowledge in asset integrity, RBI, ALARP, and HSE compliance — plus hands-on AI/cloud architecture capability across AWS, Azure, Bedrock, and Palantir Foundry.
-
----
-
-## Current Training
-
-| Certification | Provider | Status |
-|---|---|---|
-| AWS SA Associate | Amazon | In Progress |
-| AWS SA Professional | Amazon | Planned |
-| AZ-900 / AZ-104 / AZ-305 | Microsoft | Planned |
-| Claude Certified Architect (CCA-F) | Anthropic | Planned |
-| Palantir Foundry + AIP | Palantir | Planned |
-
----
-
-## Portfolio Projects
-
-### 🔵 Industrial Regulatory Knowledge Assistant *(In Progress)*
-RAG system built over HSE guidance and API inspection standards corpus. Semantic search, pgvector, LangSmith observability, AWS Bedrock deployment option. The only RAG system built by someone who has actually used these documents operationally.
-
-### 🟣 Risk Assessment AI Assistant *(In Progress)*
-LLM agent guiding users through ALARP and bow-tie risk assessments. Produces audit-ready structured reports. Framed around EU AI Act high-risk AI governance requirements. Azure deployment via Terraform.
-
-### 🟢 AWS + Azure Secure Landing Zone *(In Progress)*
-Multi-cloud, multi-account architecture deployed via Terraform. Network segmentation, IAM guardrails, Bedrock VPC endpoints, CloudWatch and Azure Monitor observability.
-
-### 🟡 AI Operations Automation System *(Planned)*
+Portfolio Projects
+🔵 Industrial Regulatory Knowledge Assistant (In Progress)
+RAG system built over HSE guidance and API inspection standards. Semantic search, pgvector, LangSmith observability, AWS Bedrock deployment. Built by someone who has actually used these documents operationally.
+🟣 Risk Assessment AI Assistant (In Progress)
+LLM agent guiding users through ALARP and bow-tie risk assessments. Produces audit-ready structured reports with EU AI Act high-risk governance framing. Azure deployment via Terraform.
+🟢 Multi-Cloud Secure Landing Zone (In Progress)
+AWS + Azure multi-account architecture via Terraform. Network segmentation, IAM guardrails, Bedrock VPC endpoints, CloudWatch and Azure Monitor observability.
+🟡 AI Operations Automation System (Planned)
 End-to-end LLM workflow — classifies and routes operational requests automatically. FastAPI, Docker, AWS.
-
-### 🟠 AI Workflow Dashboard *(Planned)*
+🟠 AI Workflow Dashboard (Planned)
 Streamlit dashboard showing live AI pipeline metrics, token costs, and operational insights.
 
----
+Technical Stack
+Cloud           AWS · Azure
+IaC             Terraform · Docker
+Languages       Python · SQL
+AI / LLM        LangChain · Anthropic API · Palantir Foundry + AIP · AWS Bedrock
+Architecture    Solution design · TOGAF · Operational resilience
+Domains         Oil & Gas · Energy · Financial Services · Regulated Industry
+Standards       DORA · FCA · HSE · API 580 · API 579 · ALARP
 
-## Background
+Career History
+RoleCompanyLocationPeriodIntegrity Engineer — Tyra RedevelopmentTotalEnergiesDenmark2024–PresentOffshore Inspection EngineerTotalEnergiesNigeria2022–2024Site Inspector & Integrity EngineerTotalEnergies / TotalDenmark2018–2022Field Integrity EngineerRepsolAberdeen2017–2018Integrity Engineer — FPSOsBluewaterEast Timor & Singapore2015–2017Offshore Integrity EngineerLloyds RegisterAberdeen2014–2015Inspection EngineerConocoPhillipsAberdeen2012–2014Offshore Inspection Engineer — Elgin/FranklinTotalAberdeen2008–2012
 
-TotalEnergies — Integrity Engineer, Tyra Redevelopment (Denmark) · 2024–Present
-TotalEnergies — Offshore Inspection Engineer, Nigeria · 2022–2024
-TotalEnergies / Total — Site Inspector and Integrity Engineer, Denmark · 2018–2022
-Repsol — Field Integrity Engineer, Aberdeen · 2017–2018
-Bluewater — Integrity Engineer, FPSOs, East Timor & Singapore · 2015–2017
-Lloyds Register — Offshore Integrity Engineer, Aberdeen · 2014–2015
-ConocoPhillips — Inspection Engineer, Aberdeen · 2012–2014
-Total — Offshore Inspection Engineer, Elgin/Franklin · 2008–2012
+Qualifications
 
----
+BEng (Hons) — Open University
+API 580 — Risk-Based Inspection
+API 579 — Fitness for Service
+IEng — BINDT (working towards CEng)
 
-## Qualifications
 
-- BEng (Hons) — Open University
-- API 580 — Risk-Based Inspection
-- API 579 — Fitness for Service
-- IEng — BINDT (working towards CEng)
-
----
-
-*Start date: 16 March 2026. Building in public.*
+Connect
+LinkedIn  ·  Open to SA and AI architecture roles in regulated industry
