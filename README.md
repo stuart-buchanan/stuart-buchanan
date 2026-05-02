@@ -72,7 +72,7 @@ Standards       DORA · FCA · HSE · API 580 · API 579 · ALARP
 
 ### Qualifications
 
-- BEng (Hons) — Open University
+- BEng (Hons) Engineering — Open University
 - API 580 — Risk-Based Inspection
 - API 579 — Fitness for Service
 - IEng — BINDT *(working towards CEng)*
