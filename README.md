@@ -50,14 +50,16 @@ Domain-specific AI systems for regulated environments, built and documented in t
 
 ## Background
 
-TotalEnergies — Integrity Engineer, Tyra Redevelopment (Denmark) · 2024–Present
-TotalEnergies — Offshore Inspection Engineer (Nigeria) · 2022–2024
-TotalEnergies / Total — Site Inspector & Integrity Engineer (Denmark) · 2018–2022
-Repsol — Field Integrity Engineer (Aberdeen) · 2017–2018
-Bluewater — Integrity Engineer, FPSOs (East Timor & Singapore) · 2015–2017
-Lloyds Register — Offshore Integrity Engineer (Aberdeen) · 2014–2015
-ConocoPhillips — Inspection Engineer (Aberdeen) · 2012–2014
-Total — Offshore Inspection Engineer, Elgin/Franklin (Aberdeen) · 2008–2012
+| Role | Company | Location | Period |
+|---|---|---|---|
+| Integrity Engineer — Tyra Redevelopment | TotalEnergies | Denmark | 2024–Present |
+| Offshore Inspection Engineer | TotalEnergies | Nigeria | 2022–2024 |
+| Site Inspector & Integrity Engineer | TotalEnergies / Total | Denmark | 2018–2022 |
+| Field Integrity Engineer | Repsol | Aberdeen | 2017–2018 |
+| Integrity Engineer — FPSOs | Bluewater | East Timor & Singapore | 2015–2017 |
+| Offshore Integrity Engineer | Lloyds Register | Aberdeen | 2014–2015 |
+| Inspection Engineer | ConocoPhillips | Aberdeen | 2012–2014 |
+| Offshore Inspection Engineer — Elgin/Franklin | Total | Aberdeen | 2008–2012 |
 
 ---
 
