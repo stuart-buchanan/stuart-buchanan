@@ -1,55 +1,61 @@
 # Stuart Buchanan
-
-**AI Integration Consultant | Cloud & AI Solutions Architect | Regulated Industries**
-
-📍 Scotland, UK · 🔗 [LinkedIn](https://linkedin.com/in/stuartwbuchanan)
-
+ 
+**AI & Cloud Solutions Architect | Security & Risk Governance for Regulated Industries**
+ 
+📍 Scotland, UK | 🔗 [LinkedIn](https://linkedin.com/in/stuartwbuchanan)
+ 
 ---
-
+ 
 ## What I'm Building
-
-21 years of safety-critical engineering in oil and gas — asset integrity, risk-based inspection, ALARP, HSE compliance — now applied to AI integration and cloud architecture for regulated industries.
-
-The combination that's hard to find: deep operational knowledge of how regulated, safety-critical environments actually work, plus hands-on AI and cloud capability across AWS, Azure, and the modern LLM stack. I understand the operational reality behind the data, not just the architecture around it.
-
+ 
+21 years of safety-critical engineering in heavily regulated environments — now applying that operational and risk discipline to AI and cloud architecture for regulated industries.
+ 
+The combination that's hard to find: deep experience in risk-based inspection, ALARP and audit-ready compliance — plus hands-on AI/cloud architecture across AWS, Azure and enterprise LLM deployment. I understand the operational and regulatory reality, not just the architecture around it.
+ 
 ---
-
-## Current Focus
-
-### 🔵 Industrial Regulatory Knowledge Assistant
-
-A retrieval-augmented (RAG) system built over HSE guidance and API inspection standards — the documents I've worked with operationally for two decades. Semantic search over a curated corpus, pgvector for retrieval, source attribution and role-based access, LangSmith for observability, with an AWS Bedrock deployment path for enterprise use.
-
-What makes it different from a generic RAG demo: the corpus, the known edge cases, and the retrieval logic come from someone who has actually used these documents to make real operational decisions. Domain knowledge as an engineering input, not a tagline.
-
-**Repository → _coming soon_**  <!-- replace with the live repo link the moment it's pushed -->
-
+ 
+## Technical Stack
+ 
+```
+Cloud         AWS · Azure
+IaC           Terraform · Docker
+Languages     Python · SQL
+AI / LLM      Anthropic API · AWS Bedrock · RAG · LangChain
+Security      CISSP (in progress) · secure architecture · AI governance
+Architecture  Solution design · operational resilience · risk governance
+Domains       Financial Services · Defence · Critical Infrastructure · Energy
+Standards     DORA · FCA · EU AI Act · NIST AI RMF · ISO 42001 · ALARP
+Background    Palantir Foundry (familiar) · API 580 / 579 · HSE
+```
+ 
 ---
-
+ 
 ## Certifications
-
+ 
 | Certification | Provider | Status |
 |---|---|---|
-| AWS Solutions Architect – Associate | Amazon | In Progress |
-| AZ-900 Azure Fundamentals | Microsoft | Planned |
-| Claude Certified Architect – Foundations (CCA-F) | Anthropic | Planned |
-
-Further cloud and platform certifications (AWS Professional, AZ-305, Palantir Foundry) to follow as roles and projects require.
-
+| AWS Solutions Architect Associate | Amazon | In Progress |
+| Anthropic AI Architect | Anthropic | In Progress |
+| CISSP | ISC2 | Planned (via Transition Training Fund) |
+| Azure Solutions Architect (AZ-305) | Microsoft | Planned (if role-relevant) |
+ 
 ---
-
-## Roadmap
-
-Domain-specific AI systems for regulated environments, built and documented in the open:
-
-- **Risk Assessment AI Assistant** — LLM agent guiding users through ALARP and bow-tie risk assessments, producing audit-ready structured reports framed around EU AI Act high-risk governance. Azure via Terraform.
-- **Multi-Cloud Secure Landing Zone** — AWS + Azure multi-account architecture via Terraform. Network segmentation, IAM guardrails, Bedrock VPC endpoints, CloudWatch and Azure Monitor observability.
-- **Operational Resilience Incident Agent** — classifies ICT incidents against DORA / FCA reporting thresholds and generates audit-ready reports with a human approval gate. Azure via Terraform.
-
+ 
+## Portfolio Projects
+ 
+### 🔵 Industrial Regulatory Knowledge Assistant *(In Progress)*
+RAG system over regulatory guidance and inspection standards. Semantic search, pgvector, LangSmith observability, AWS Bedrock deployment. Built by someone who has used these documents operationally.
+ 
+### 🟣 Risk Assessment AI Assistant *(In Progress)*
+LLM agent guiding users through ALARP and bow-tie risk assessments, producing audit-ready structured reports with EU AI Act high-risk governance framing. Azure deployment via Terraform.
+ 
+### 🔴 Operational Resilience Incident Agent *(Planned)*
+LLM agent that ingests ICT incident data, classifies by severity, and determines whether regulatory reporting thresholds are triggered under DORA and FCA operational resilience frameworks. Audit-ready reports with a human approval gate.
+ 
 ---
-
-## Background
-
+ 
+## Career History
+ 
 | Role | Company | Location | Period |
 |---|---|---|---|
 | Integrity Engineer — Tyra Redevelopment | TotalEnergies | Denmark | 2024–Present |
@@ -60,16 +66,19 @@ Domain-specific AI systems for regulated environments, built and documented in t
 | Offshore Integrity Engineer | Lloyds Register | Aberdeen | 2014–2015 |
 | Inspection Engineer | ConocoPhillips | Aberdeen | 2012–2014 |
 | Offshore Inspection Engineer — Elgin/Franklin | Total | Aberdeen | 2008–2012 |
-
+ 
 ---
-
+ 
 ## Qualifications
-
+ 
 - BEng (Hons) — Open University
 - API 580 — Risk-Based Inspection
 - API 579 — Fitness for Service
-- IEng — BINDT (working towards CEng)
-
+- IEng — BINDT
+ 
 ---
-
-*Building in public — domain-specific AI for regulated industries.*
+ 
+## Connect
+ 
+[LinkedIn](https://linkedin.com/in/stuartwbuchanan) · Open to AI/cloud solutions architecture roles in regulated industry — hybrid or remote, UK-wide
+ 
