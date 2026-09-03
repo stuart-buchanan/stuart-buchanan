@@ -16,17 +16,17 @@ The combination that's hard to find: deep experience in risk-based inspection, A
  
 ## Technical Stack
  
-```
-Cloud         AWS · Azure
-IaC           Terraform · Docker
-Languages     Python · SQL
-AI / LLM      Anthropic API · AWS Bedrock · RAG · LangChain
-Security      CISSP (in progress) · secure architecture · AI governance
-Architecture  Solution design · operational resilience · risk governance
-Domains       Financial Services · Defence · Critical Infrastructure · Energy
-Standards     DORA · FCA · EU AI Act · NIST AI RMF · ISO 42001 · ALARP
-Background    Palantir Foundry (familiar) · API 580 / 579 · HSE
-```
+| Layer | Tools |
+|---|---|
+| **Cloud** | AWS · Azure |
+| **IaC** | Terraform · Docker |
+| **Languages** | Python · SQL |
+| **AI / LLM** | Anthropic API · AWS Bedrock · RAG · LangChain |
+| **Security** | CISSP (in progress) · secure architecture · AI governance |
+| **Architecture** | Solution design · operational resilience · risk governance |
+| **Domains** | Financial Services · Defence · Critical Infrastructure · Energy |
+| **Standards** | DORA · FCA · EU AI Act · NIST AI RMF · ISO 42001 · ALARP |
+| **Background** | Palantir Foundry · API 580 / 579 · HSE |
  
 ---
  
@@ -81,4 +81,3 @@ LLM agent that ingests ICT incident data, classifies by severity, and determines
 ## Connect
  
 [LinkedIn](https://linkedin.com/in/stuartwbuchanan) · Open to AI/cloud solutions architecture roles in regulated industry — hybrid or remote, UK-wide
- 
